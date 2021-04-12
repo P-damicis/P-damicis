@@ -5,10 +5,10 @@
 <div>
   I am interested in:<br>
   <ul>
-    <li>android development
-    <li>artificial intelligence
-    <li>video and photo editing
-    <li>cinematography
+    <li>✔️ Android development
+    <li>✔️ Artificial intelligence
+    <li>✔️ Video and photo editing
+    <li>✔️ Cinematography
   </ul>
 </div>
 
