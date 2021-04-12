@@ -1,6 +1,6 @@
 👋 Hi, I’m Pier Domenico d'Amicis 👋
 <div> 
-  I'm currently studying <b>Computer Engineering</b> at <i>Alma Mater Studiorum</i> in Bologna
+  I'm currently studying <b>Computer Engineering</b> at <i>Alma Mater Studiorum</i> in Bologna.
 </div>
 <div>
   <ul style="list-style: none;">
