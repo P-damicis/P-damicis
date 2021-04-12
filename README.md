@@ -1,16 +1,16 @@
 👋 Hi, I’m Pier Domenico d'Amicis 👋
 <div> 
-  I'm currently studying <b>Computer Engineering</b> at <i>Alma Mater Studiorum</i> in Bologna.
+  I'm currently studying <b>Computer Engineering</b> at <i>Alma Mater Studiorum</i> in Bologna
 </div>
 <div>
+  <ul style="list-style: none;">
   I am interested in:<br>
-  <ul>
-    <li>✔️ Android development
-    <li>✔️ Artificial intelligence
-    <li>✔️ Video and photo editing
-    <li>✔️ Cinematography
-  </ul>
+☑️ Android development <br>
+☑️ Artificial intelligence <br>
+☑️ Video and photo editing <br>
+☑️ Cinematography<br>
 </div>
+  </ul>
 
 
 <!---
