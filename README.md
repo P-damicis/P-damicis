@@ -1,14 +1,13 @@
 👋 Hi, I’m Pier Domenico d'Amicis 👋
 <div> 
-  I'm currently studying <b>Computer Engineering</b> at <i>Alma Mater Studiorum</i> in Bologna.
+  MSc in Computer Engineering, working as Cybersecurity consultant, passionate about technology and good ideas.
 </div>
 <div>
   <ul style="list-style: none;">
   I am interested in:<br>
-☑️ Android development <br>
-☑️ Artificial intelligence <br>
-☑️ Video and photo editing <br>
-☑️ Cinematography<br>
+☑️ Cybersecurity <br>
+☑️ Machine Learning <br>
+☑️ Python <br>
 </div>
   </ul>
 
